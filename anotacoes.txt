@@ -1,0 +1,12 @@
+Guide FastAPI: https://fastapi.tiangolo.com/tutorial/
+
+Comandos:
+Instalação do FastAPI:
+    $ pip install fastapi             -->  dependências opcionais padrão.
+    $ pip install fastapi-slim        -->  se não quiser ter essas dependências opcionais padrão.
+
+Instalação do servidor:
+    $ pip install uvicorn
+
+Subir o servidor:
+    $ uvicorn NOME_DO_ARQUIVO:app --reload
